@@ -1,1 +1,67 @@
+@charset "UTF-8";
 
+ body 
+{
+        background-color: red ;
+  background-image: linear-gradient(to right, red, orange);
+  text-align: center;
+}
+ 
+
+
+p {
+
+  color:  rgb(0, 0, 0);
+  text-align: center;
+  font-size: 180%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;
+}
+
+a {
+ color:blue;
+  text-align: center;
+    text-decoration: none;
+  font-size: 160%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;}
+
+        a {
+         color:  rgb(0, 0, 0);
+          text-align: center;
+           text-decoration: none;
+  font-size: 130%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;}
+
+img {
+ text-align: center;
+}
+h1
+{ 
+ color:dark gray;
+ font-Size: 30 pt;
+ font-family: Arial;
+ text-align: center;
+}
+h2
+{
+  color:dark gray;
+ font-Size: 25 pt;
+ font-family: arial;
+ text-align: left;
+}
+p3
+{
+ color:black;
+ font-size: 20 pt;
+ font-family:arial;
+ text-aling:left;
+}
+h1
+{
+color: white;
+font-size:40 pt;
+font-family:arial;
+text-aling: center;
+}
